@@ -26,6 +26,7 @@ while True:
         if choice == "y":
             break
         elif choice =="n":
+            print("Goodbye!")
             exit()
         else:
             print("Please choose (y/n).")
